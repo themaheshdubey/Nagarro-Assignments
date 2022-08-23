@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+
+.one {
+    text-align: center;
+}
+
+.two {
+    text-align: center;
+
+}
+
+.three,
+.two {
+    text-align: center;
+    margin-top: 50px;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
